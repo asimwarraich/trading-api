@@ -1,1 +1,1 @@
-# trading-api
+# frichunks-api
